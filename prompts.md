@@ -22,3 +22,8 @@ Set img/cta-bg.jpg as the background image for the banner. Apply a light overlay
 
 ## Prompt 4
 Below the banner, create a new section that displays the image 'img/pet.jpg' alongside additional information about fostering pets. Arrange them in two evenly sized columns, centered on the page.
+
+## Prompt 5  
+Add a new section below the information section for upcoming pet adoption events.  
+Include a heading titled "Upcoming Events" and a short list of 2–3 example events with dates and locations.  
+Style the section with a light background color, some padding, and centered text.
